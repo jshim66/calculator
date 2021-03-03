@@ -8,4 +8,4 @@ Created with the intention of learning the basics of PyQt5
 
 # Requirements
 
-In order to run calculator.py, you must have PyQt5 installed on your machine.
+In order to run the program, you must have PyQt5 installed on your machine.
